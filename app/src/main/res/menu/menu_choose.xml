@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_only_image"
+        android:title="@string/choose_only_image" />
+    <item
+        android:id="@+id/menu_only_video"
+        android:title="@string/choose_only_video"/>
+    <item
+        android:id="@+id/menu_choose_both"
+        android:title="@string/choose_both_image_and_video"/>
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MediaPicker</string>
+    <string name="choose">CHOOSE</string>
+    <string name="choose_only_image">Choose only image</string>
+    <string name="choose_only_video">Choose only video</string>
+    <string name="choose_both_image_and_video">Choose both image and video</string>
+    <string name="max_files_select">Max files select</string>
+    <string name="default_max_files">-1</string>
+    <string name="link_images_selected">LINK IMAGES SELECTED</string>
+    <string name="link_videos_selected">LINK VIDEOS SELECTED</string>
+
+    <string name="title_activity_pick_image">PickImageAct</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
